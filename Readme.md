@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Viktoriia Bondarenko](https://up.htmlacademy.ru/ecmascript/14/user/407547).
-* Наставник: [Алексей Белявский](https://htmlacademy.ru/profile/id666435).
+* Наставник: ''
 
 ---
 
